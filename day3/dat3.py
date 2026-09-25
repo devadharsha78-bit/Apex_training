@@ -1,0 +1,7 @@
+java = float (input("enter the value:"))
+python = float(input("enter the value:"))
+mysql = float(input("enter the value:"))
+print("total:",java+python+mysql)
+print("average:", java+python+mysql/3)
+print("percentage:",java+python+mysql/300*100)
+print("remaining:",300-java+python+mysql)
